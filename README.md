@@ -38,7 +38,7 @@ print(sorted_x)
 ```
 
 # Author
-[Terry-Kariuki] (https://github.com/TERRYYYY)
+[Terry Kariuki](https://github.com/TERRYYYY)
 
 # Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -51,7 +51,7 @@ Windows 10
 
 ## Installing
 #### Step 1: Download Python
-To start, go to [python downloads](python.org/downloads) and then click on the button to download the latest version of Python.
+To start, go to [python downloads](https://www.python.org/downloads/) and then click on the button to download the latest version of Python.
 
 #### Step 2: Run the .exe file
 Next, run the .exe file that you just downloaded, and then follow the installation instructions.
@@ -66,5 +66,5 @@ Python
 # Support and Contact
 Email : kariuki.terry11@gmail.com
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+# License
+Supported by [MIT](https://choosealicense.com/licenses/mit/)
